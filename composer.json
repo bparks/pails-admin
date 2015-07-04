@@ -1,0 +1,10 @@
+{
+	"name": "pails/admin",
+	"autoload": {
+		"files": ["index.php"]
+	},
+	"require": {
+		"pails/pails": "dev-master",
+		"pails/menu": "dev-master"
+	}
+}
