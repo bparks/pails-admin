@@ -4,7 +4,7 @@
 		"files": ["index.php"]
 	},
 	"require": {
-		"pails/pails": "dev-master",
+		"pails/pails": "^1.0",
 		"pails/menu": "dev-master"
 	}
 }
